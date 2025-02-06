@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @stutixy
-- 👀 I’m interested in java and pizza and also a little bit of data strutures
-- 🌱 I’m currently learning app development
-- 💞️ I’m looking to collaborate on projects with lots of java in it
+- 👋 Hi, I’m Stuti
+- 👀 I’m interested in machine learning
+- 🌱 I’m currently learning Golang
+- 💞️ I’m looking to collaborate on projects
 - 📫 Just drop a mail on stutitiwari102@gmail.com to reach me 
 
 <!---
