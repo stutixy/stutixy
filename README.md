@@ -2,7 +2,7 @@
 - 👀 I’m interested in machine learning
 - 🌱 I’m currently learning Golang
 - 💞️ I’m looking to collaborate on projects
-- 📫 Just drop a mail on stutitiwari102@gmail.com to reach me 
+- 📫 Just drop a mail on tiwaristuti.21@gmail.com to reach me 
 
 <!---
 stutixy/stutixy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
