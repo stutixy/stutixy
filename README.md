@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Stuti
 - 👀 I’m interested in machine learning
-- 🌱 I’m currently learning Golang
+- 🌱 I’m currently learning Golang and spring boot
 - 💞️ I’m looking to collaborate on projects
 - 📫 Just drop a mail on tiwaristuti.21@gmail.com to reach me 
 
